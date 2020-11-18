@@ -19,7 +19,7 @@ Sobre mim:
 
 ## Follow me
 
-[![Linkedin: FernandoVieira](https://img.shields.io/badge/-FernandoVieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoviieira//)](https://www.linkedin.com/in/AlineBastos/)
+[![Linkedin: FernandoVieira](https://img.shields.io/badge/-FernandoVieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoviieira//)](https://www.linkedin.com/in/fernandoviieira/)
 
 [![GitHub FernandoVieira](https://img.shields.io/github/followers/fernandoviieira?label=follow&style=social)](https://github.com/fernandoviieira)
 
